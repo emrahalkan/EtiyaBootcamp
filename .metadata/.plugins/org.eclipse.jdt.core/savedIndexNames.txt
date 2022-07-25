@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\EtiyaBootcamp\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-1982490563.index
-130675592.index
