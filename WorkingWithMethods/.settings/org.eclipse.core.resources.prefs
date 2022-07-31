@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/Main.java=UTF-8
+encoding//src/business/concretes/CustomerManager.java=UTF-8
+encoding//src/dataAccess/concretes/EFrameworkCustomerDal.java=UTF-8
+encoding/<project>=Cp1252
